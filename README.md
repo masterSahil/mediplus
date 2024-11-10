@@ -29,14 +29,12 @@ Open the index.html file in any web browser to view the project.
 Project Structure
 The project is organized as follows:
 
-graphql
-Copy code
-mediplus/
-│
-├── index.html          # The main HTML file
-├── style.css           # The main stylesheet   
-├── script.js           # JavaScript functionality
-└── images/             # Folder containing image assets
+mediplus/<br>
+│<br>
+├── index.html          # The main HTML file<br>
+├── style.css           # The main stylesheet   <br>
+├── script.js           # JavaScript functionality<br>
+└── images/             # Folder containing image assets<br>
 
 Technologies Used
 HTML: Provides the structure of the web pages.
@@ -62,6 +60,6 @@ For any questions or inquiries, you can contact me at:
 
 ## link for Website: https://mastersahil.github.io/mediplus/
 
-
+## or Scan this QR Code to Open Website
 ![QR code for Mediplus](https://github.com/user-attachments/assets/fe3832e5-b12c-4aca-b0e6-2280b1f52802)
 
