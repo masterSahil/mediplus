@@ -1,0 +1,48 @@
+#fade1, #fade2, #fade3, #fade4, .fade5, .fade6, .fade7, .fade8, .fade9, .fade10, .fade11, .fade12{
+    opacity: 0;
+    transform: translateY(20vw);
+    animation: fadeIn 2s forwards;
+}
+@keyframes fadeIn{
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#fade1{
+    animation-delay: .5s;
+}
+#fade2{
+    animation-delay: 2s;
+}
+#fade3{
+    animation-delay: 3.5s;
+}
+#fade4{
+    animation-delay: 5s;
+}
+.fade5{
+    animation-delay: 6.5s;
+}
+.fade6{
+    animation-delay: 8s;
+}
+.fade7{
+    animation-delay: 9.5s;
+}
+.fade8{
+    animation-delay: 11s;
+}
+.fade9{
+    animation-delay: 12.5s;
+}
+.fade10{
+    animation-delay: 14s;
+}
+.fade11{
+    animation-delay: 15.5s;
+}
+.fade12{
+    animation-delay: 17s;
+}
