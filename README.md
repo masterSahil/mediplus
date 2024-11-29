@@ -62,4 +62,3 @@ For any questions or inquiries, you can contact me at:
 
 ## or Scan this QR Code to Open Website
 
-![QR code for Mediplus](https://github.com/user-attachments/assets/fe3832e5-b12c-4aca-b0e6-2280b1f52802)
