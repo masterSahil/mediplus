@@ -1,0 +1,163 @@
+.mainContent2{
+    margin-top: 5vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+.content12, .blogs{
+    width: 25vw;
+}
+.content12{
+    overflow: hidden;
+    padding: 1vw;
+    box-shadow: -.5px .5px 10px #707070;
+    border-radius: 2%;
+}
+#fb{
+    border-radius: 50%;
+}
+.blogs{
+    margin-bottom: 3vw;
+    transition: 1s;
+}
+.blogs:hover{
+    transform: scale(1.2);
+}
+.span2{
+    background: #1A76D1;
+    color: #fff;
+    padding: .5vw 1.75vw;
+    display: block;
+}
+.para15{
+    font-size: larger;
+    margin-bottom: 0;
+}
+.para16{
+    font-size: small;
+    color: #707070;
+    margin-top: 1vw;
+}
+.subForm{
+    width: 50vw;
+}
+.content13{
+    display: flex;
+    justify-content: center;
+}
+input, #select{
+    padding: 1vw;
+}
+.subForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: -3vw;
+    margin-top: 6vw;
+}
+#select{
+    width: 17.5vw;
+}
+input, .date{
+    font-size: large;
+    width: 15.2vw;
+}
+select, input, .date, textarea{
+    font-size: large;
+}
+textarea{
+    padding: 1vw;
+    width: 37vw;
+    resize: vertical;
+}
+.space{
+    margin-right: 2vw;
+}
+input, #select, textarea, .formBtn{
+    margin-bottom: 3vw;
+}
+.formBtn{
+    margin-right: 7vw;
+    transition: .5s;
+    border: none;
+    background: #1A76D1;
+    color: #fff;
+    &:hover{
+        background: #fff;
+        color: #1A76D1;
+        border: 2px solid;
+    }
+}
+.img7{
+    width: 45vw;
+}
+.container13{
+    margin-top: 8vw;
+}
+.container14{
+    margin-top: 5vw;
+    margin-left: 1vw;
+    background: #1A76D1;
+    display: flex;
+    flex-direction: column;
+}
+.content14{
+    color: #fff;
+    display: flex;
+}
+.subContent14{
+    padding: 0 2vw;
+    width: 29vw;
+    padding-bottom: 1vw;
+}
+.img8{
+    width: 3vw;
+}
+.footerImgs{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.para17, .para18, .para19{
+    font-size: large;
+}
+#lastEmail{
+    margin-top: 1vw;
+    padding: .8vw;
+    margin-bottom: 0;
+}
+#submitBtnLast{
+    border: none;
+    color: #1A76D1;
+    font-weight: bold;
+    font-size: large;
+    background: #fff;
+    padding: .8vw;
+}
+.paraUltimate{
+    margin-top: .75vw;
+    margin-bottom: .75vw;
+}
+.copywrite{
+    text-align: center;
+    color: #fff;
+    padding: .5vw 2vw 2vw 2vw;
+}
+.copy{
+    color: #fff;
+    text-decoration: underline #fff;
+}
+#reset{
+    width: fit-content;
+    padding: 1vw 5vw;
+}
+#submit{
+    width: fit-content;
+}
+.fixedToBottom{
+    background: #1A76D1;
+    color: #fff;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+}

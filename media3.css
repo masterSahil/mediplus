@@ -1,0 +1,340 @@
+@media screen and (max-width: 400px) {
+    .mainContent2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .content12{
+        height: 94vw;
+        width: 60vw;
+        margin-bottom: 5vw;
+    }
+    .blogs{
+        width: 60vw;
+        height: 40vw;
+        margin-bottom: 7vw;
+    }
+    .subForm{
+        width: 99vw;
+    }
+    .formImg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .content13{
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .img7{
+        margin-top: 2vw;
+        width: 70vw;
+    }
+    .formBtn{
+        margin: 0;
+        padding: 2vw 0;
+        margin-bottom: 2vw;
+        margin-left: 5vw;
+    }
+    #reset{
+        margin-top: -8vw;
+        width: 28vw;
+    }
+    input, .date{
+        width: 32.2vw;
+    }
+    input, #select{
+        padding: 2vw;
+    }
+    .img8{
+        width: 10vw;
+    }
+    #submit{
+        padding-left: 2vw;
+        padding-right: 2vw;
+    }
+}
+
+@media screen and (min-width: 401px) and (max-width: 500px) {
+    .mainContent2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .content12{
+        height: 90vw;
+        width: 60vw;
+        margin-bottom: 5vw;
+    }
+    .subForm{
+        width: 99vw;
+    }
+    .formImg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .content13{
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .img7{
+        margin-top: 2vw;
+        width: 70vw;
+    }
+    .formBtn{
+        margin-right: 18vw;
+        padding: 2vw 2vw;
+    }
+    #submit{
+        margin-right: 0;
+    }
+    input, .date{
+        width: 32.2vw;
+    }
+    input, #select{
+        padding: 2vw;
+    }
+    .img8{
+        width: 10vw;
+    }
+    .formElement{
+        margin-bottom: .5vw;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 600px) {
+    .mainContent2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .content12{
+        height: 74.5vw;
+        width: 60vw;
+        margin-bottom: 5vw;
+    }
+    .blogs{
+        width: 60vw;
+        height: 40vw;
+        margin-bottom: 7vw;
+    }
+    .subForm{
+        width: 99vw;
+    }
+    .formImg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .content13{
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .img7{
+        margin-top: 2vw;
+        width: 70vw;
+    }
+    .formBtn{
+        margin-right: 20vw;
+        padding: 2vw 2vw;
+    }
+    #submit{
+        margin-right: 0;
+    }
+    input, .date{
+        width: 32.2vw;
+    }
+    input, #select{
+        padding: 2vw;
+    }
+    textarea{
+        width: 79.5vw;
+    }
+    .img8{
+        width: 7vw;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 700px) {
+    .mainContent2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .content12{
+        height: 64.5vw;
+        width: 60vw;
+        margin-bottom: 5vw;
+    }
+    .blogs{
+        width: 60vw;
+        height: 40vw;
+        margin-bottom: 7vw;
+    }
+    .subForm{
+        width: 99vw;
+    }
+    .formImg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .content13{
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .img7{
+        margin-top: 2vw;
+        width: 70vw;
+    }
+    .formBtn{
+        margin-right: 22vw;
+        padding: 2vw 2vw;
+    }
+    #submit{
+        margin-right: 0;
+    }
+    #select{
+        width: 36.5vw;
+    }
+    input, .date{
+        width: 32.2vw;
+    }
+    input, #select{
+        padding: 2vw;
+    }
+    textarea{
+        width: 75vw;
+    }
+    .img8{
+        width: 7vw;
+    }
+}
+
+@media screen and (min-width: 701px) and (max-width: 800px) {
+    .mainContent2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .content12{
+        height: 65vw;
+        width: 60vw;
+        margin-bottom: 5vw;
+    }
+    .blogs{
+        width: 60vw;
+        height: 40vw;
+        margin-bottom: 7vw;
+    }
+    .subForm{
+        width: 99vw;
+    }
+    .formImg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .content13{
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .img7{
+        margin-top: 2vw;
+        width: 70vw;
+    }
+    .formBtn{
+        margin-right: 20vw;
+        padding: 2vw 2vw;
+    }
+    #submit{
+        margin-right: 0;
+    }
+    #select{
+        width: 32.5vw;
+    }
+    input, .date{
+        width: 30.2vw;
+    }
+    textarea{
+        width: 67vw;
+    }
+    .img8{
+        width: 5vw;
+    }
+}
+
+@media screen and (min-width: 801px) and (max-width: 900px) {
+    .img7{
+        margin-top: 7vw;
+        margin-right: -6vw;
+        width: 44vw;
+    }
+    .formBtn{
+        margin-right: 5vw;
+    }
+    .subForm{
+        margin-left: -3.5vw;
+        display: block;
+    }
+    #select{
+        width: 21.5vw;
+    }
+    input, .date{
+        width: 19.2vw;
+    }
+    textarea{
+        width: 45vw;
+    }
+    .img8{
+        width: 5vw;
+    }
+}
+
+@media screen and (min-width: 901px) and (max-width: 1000px) {
+    .img7{
+        margin-right: -3vw;
+        margin-top: 7vw;
+        width: 42vw;
+    }
+    .formBtn{
+        margin-right: 6.5vw;
+    }
+    .subForm{
+        display: block;
+    }
+    #select{
+        width: 19.5vw;
+    }
+    input, .date{
+        width: 17.2vw;
+    }
+    textarea{
+        width: 41vw;
+    }
+    .img8{
+        width: 5vw;
+    }
+}
+
+@media screen and (min-width: 1001px) and (max-width: 1100px) {
+    .img7{
+        margin-top: 5vw;
+        width: 42vw;
+    }
+    .formBtn{
+        margin-right: 7.83vw;
+    }
+    .subForm{
+        display: block;
+    }
+    #select{
+        width: 19.5vw;
+    }
+    input, .date{
+        width: 17.2vw;
+    }
+    textarea{
+        width: 41vw;
+    }
+}
+
+@media screen and (min-width: 1101px) {
+    
+}

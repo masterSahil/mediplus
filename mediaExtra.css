@@ -1,0 +1,148 @@
+@media screen and (max-width: 900px) {
+    .content7{
+        flex-direction: column;
+    }
+    .img{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .list{
+        flex-direction: column;
+    }
+    #list1{
+        margin-bottom: 0;
+    }
+    #list2{
+        margin-top: 1vw;
+    }   
+    .formElements{
+        display: flex;
+        flex-direction: column;
+    }
+    .elementForm{
+        width: 95%;
+    }
+    .brHide{
+        display: none;
+    }
+    #select{
+        width: 101%;
+    }
+    .formBtn{
+        margin-top: -5vw;
+    }
+    .container14{
+        margin-top: 10vw;
+    }
+    textarea{
+        padding: 3vw;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .container7{
+        margin-top: 10vw;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .btn3, .btn4{
+        padding: 2vw 3vw;
+    }
+    .para12{
+        margin: 1vw 0;
+    }
+    #reset{
+        padding: 2vw 6vw;
+    }
+}
+
+@media screen and (min-width: 801px) and (max-width: 1200px) {
+    .btn3, .btn4{
+        padding: 1.5vw 3vw;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .container9{
+        margin-top: 8vw;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .services{
+        width: 90vw;
+        margin-right: 0;
+    }
+    .subContent10{
+        flex-direction: column;
+    }
+    .content14{
+        flex-direction: column;
+    }
+    .subContent14{
+        padding-left: 5vw;
+        padding-bottom: .5vw;
+        width: 90vw;
+    }
+    .para17, .para18, .para19{
+        font-size: larger;
+        margin: 2vw 0;
+    }
+    .container14{
+        padding-bottom: 1vw;
+    }
+    .copywrite{
+        padding-top: 1vw;
+        padding-bottom: 1vw;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .container13{
+        margin-top: 10vw;
+    }   
+}
+
+@media screen and (max-width: 400px) {
+    .para17, .para18, .para19{
+        font-size: medium;
+    }
+    #lastEmail{
+        width: 78%;
+        margin-bottom: 1vw;
+    }
+    textarea{
+        width: 85%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .para17, .para18, .para19{
+        font-size: large;
+    }
+    .elementForm{
+        width: 87%;
+    }
+    #select{
+        width: 92.5%;
+    }
+    .formElements{
+        display: flex;
+        align-items: center;
+    }
+    textarea{
+        width: 90%;
+    }
+    .space{
+        margin-right: 0;
+    }
+}
+@media screen and (min-width: 401px) {
+    .hideBr{
+        display: none;
+    }
+}
