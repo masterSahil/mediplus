@@ -55,8 +55,7 @@ Create a pull request
 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-Contact
-For any questions or inquiries, you can contact me at:
+
 
 ## link for Website: https://mediplus137.netlify.app/
 
