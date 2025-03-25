@@ -58,8 +58,9 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 Contact
 For any questions or inquiries, you can contact me at:
 
-## link for Website: https://mastersahil.github.io/mediplus/
+## link for Website: https://mediplus137.netlify.app/
 
 ## or Scan this QR Code to Open Website
 
-![QR code for Mediplus](https://github.com/user-attachments/assets/c3323663-a0f6-4b1e-ac78-964bff8e8cac)
+
+![api qrserver](https://github.com/user-attachments/assets/5033d293-a03f-4d59-a3a5-884c2d68d287)
